@@ -1,6 +1,6 @@
 # Pseudo Supervised Metrics
 
-This repository provides the official implementation of our paper soon to be published in the Engineering Applications of Artificial Intelligence Journal titled _**"Pseudo Supervised Metrics: Evaluating Unsupervised Image to Image Translation Models In Unsupervised Cross-Domain Classification Frameworks"**_
+This repository provides the official implementation of our paper soon to be published in the Engineering Applications of Artificial Intelligence Journal titled:<br/>  _**"Pseudo Supervised Metrics: Evaluating Unsupervised Image to Image Translation Models In Unsupervised Cross-Domain Classification Frameworks"**_
 
 
 ![Pseudo Metric Entire Framework](https://github.com/Hindawi91/Pseudo_Supervised_Metrics/assets/38744510/e5ea3bc3-3208-45f7-a85b-b3659fa4f96d)
