@@ -8,7 +8,7 @@ for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Class
 
 
 ## Paper
-[**Pseudo Supervised Metrics:<br/>Domain-knowledge Inspired Pseudo Supervision (DIPS) for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification**](https://arxiv.org/abs/2303.10310)
+[**Domain-knowledge Inspired Pseudo Supervision (DIPS) for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification**](https://arxiv.org/abs/2303.10310)
 
 [Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>,[Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>1</sup>, [Teresa Wu]<sup>1</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>2</sup>, [Ying Sun]<sup>3</sup><br/>
 
