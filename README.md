@@ -1,13 +1,14 @@
 # Pseudo Supervised Metrics
 
-This repository provides the official implementation of our paper soon to be published in the Engineering Applications of Artificial Intelligence Journal titled:<br/>  _**"Pseudo Supervised Metrics: Evaluating Unsupervised Image to Image Translation Models In Unsupervised Cross-Domain Classification Frameworks"**_
+This repository provides the official implementation of our paper soon to be published in the Engineering Applications of Artificial Intelligence Journal titled:<br/>  _**"Domain-knowledge Inspired Pseudo Supervision (DIPS)
+for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification"**_
 
 
 ![Pseudo Metric Entire Framework](https://github.com/Hindawi91/Pseudo_Supervised_Metrics/assets/38744510/e5ea3bc3-3208-45f7-a85b-b3659fa4f96d)
 
 
 ## Paper
-[**Pseudo Supervised Metrics:<br/>Evaluating Unsupervised Image to Image Translation Models In Unsupervised Cross-Domain Classification Frameworks**](https://arxiv.org/abs/2303.10310)
+[**Pseudo Supervised Metrics:<br/>Domain-knowledge Inspired Pseudo Supervision (DIPS) for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification**](https://arxiv.org/abs/2303.10310)
 
 [Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>,[Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>1</sup>, [Teresa Wu]<sup>1</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>2</sup>, [Ying Sun]<sup>3</sup><br/>
 
