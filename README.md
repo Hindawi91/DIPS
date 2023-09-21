@@ -1,4 +1,4 @@
-# Pseudo Supervised Metrics
+# Domain-knowledge Inspired Pseudo Supervision (DIPS)
 
 This repository provides the official implementation of our paper soon to be published in the Engineering Applications of Artificial Intelligence Journal titled:<br/>  _**"Domain-knowledge Inspired Pseudo Supervision (DIPS)
 for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification"**_
