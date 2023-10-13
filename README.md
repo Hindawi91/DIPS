@@ -4,8 +4,8 @@ This repository provides the official implementation of our paper soon to be pub
 for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification"**_
 
 
-![Pseudo Metric Entire Framework](https://github.com/Hindawi91/Pseudo_Supervised_Metrics/assets/38744510/e5ea3bc3-3208-45f7-a85b-b3659fa4f96d)
 
+![2023AM_Powerpoint_Template__v4](https://github.com/Hindawi91/DIPS/assets/38744510/e3c241b3-08cd-439c-9549-e092159b4d57)
 
 ## Paper
 [**Domain-knowledge Inspired Pseudo Supervision (DIPS) for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification**](https://arxiv.org/abs/2303.10310)
