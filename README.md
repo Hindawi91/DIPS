@@ -8,7 +8,7 @@ for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Class
 ![2023AM_Powerpoint_Template__v4](https://github.com/Hindawi91/DIPS/assets/38744510/e3c241b3-08cd-439c-9549-e092159b4d57)
 
 ## Paper
-[**Domain-knowledge Inspired Pseudo Supervision (DIPS) for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification**](https://arxiv.org/abs/2303.10310)
+[**Domain-knowledge Inspired Pseudo Supervision (DIPS) for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification**](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014392)
 
 [Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>,[Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>1</sup>, [Teresa Wu]<sup>1</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>2</sup>, [Ying Sun]<sup>3</sup><br/>
 
