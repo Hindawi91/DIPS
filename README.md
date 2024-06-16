@@ -131,11 +131,14 @@ The ability to classify images accurately and efficiently is dependent on having
 If you use this code for your research, please cite the following papers:
 
 ```
-@article{al2023pseudo,
-  title={Pseudo Supervised Metrics: Evaluating Unsupervised Image to Image Translation Models In Unsupervised Cross-Domain Classification Frameworks},
+@article{al2024domain,
+  title={Domain-knowledge Inspired Pseudo Supervision (DIPS) for Unsupervised Image-to-Image Translation Models to Support Cross-Domain Classification},
   author={Al-Hindawi, Firas and Siddiquee, Md Mahfuzur Rahman and Wu, Teresa and Hu, Han and Sun, Ying},
-  journal={arXiv preprint arXiv:2303.10310},
-  year={2023}
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={127},
+  pages={107255},
+  year={2024},
+  publisher={2024}
 }
 
 @article{al2023framework,
